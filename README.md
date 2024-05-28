@@ -28,7 +28,7 @@ The solution supports four working modes: CV output of secondary side, CC output
 <img src="./docs/pics/CVS_1.PNG" alt="img" width="600"><br>
 1. The above diagram shows the connection circuit. Connect J4 of MCU board to PC by micro-USB cable.
 2. Power on by DC 400V on HV connector.
-3. Starting “CN028-2 Digital Power (DAB) Solution (UART) vx.x.exe”, select the COM port number and click the “Connect” button. 
+3. Starting “CN028-2 Digital Power (DAB) Solution (UART) vx.x.exe”, select the COM port number and click the “Connect” button. <br>
 <img src="./docs/pics/CVS_2.PNG" alt="img" width="600"><br>
 4. Set “Application” to “P2S_TargetS”. That means the power is converted from the primary side to the secondary side by controlling the output of the secondary side.
 5. Set “Mode” to “CV”. And the target voltage of secondary side is set to “48” V.
@@ -41,7 +41,7 @@ The solution supports four working modes: CV output of secondary side, CC output
 <img src="./docs/pics/CCS_1.PNG" alt="img" width="600"><br>
 1. The above diagram shows the connection circuit. Connect J4 of MCU board to PC by micro-USB cable.
 2. Power on by DC 400V on HV connector.
-3. Starting “CN028-2 Digital Power (DAB) Solution (UART) vx.x.exe”, select the COM port number and click the “Connect” button. 
+3. Starting “CN028-2 Digital Power (DAB) Solution (UART) vx.x.exe”, select the COM port number and click the “Connect” button. <br>
 <img src="./docs/pics/CCS_2.PNG" alt="img" width="600"><br>
 4. Set “Application” to “P2S_TargetS”. That means the power is converted from the primary side to the secondary side by controlling the output of the secondary side.
 5. Set “Mode” to “CC”. And the target current of the secondary side is set to “5” A.
@@ -56,7 +56,7 @@ Note: It is important to ensure that the appropriate current value is set based 
 <img src="./docs/pics/CVP_1.PNG" alt="img" width="600"><br>
 1. The above diagram shows the connection circuit. Connect J4 of MCU board to PC by micro-USB cable.
 2. Power on by DC 48V on LV connector.
-3. Starting “CN028-2 Digital Power (DAB) Solution (UART) vx.x.exe”, select the COM port number and click the “Connect” button. 
+3. Starting “CN028-2 Digital Power (DAB) Solution (UART) vx.x.exe”, select the COM port number and click the “Connect” button. <br>
 <img src="./docs/pics/CVP_2.PNG" alt="img" width="600"><br>
 4. Set “Application” to “S2P_TargetP”. That means the power is converted from the secondary side to the primary side by controlling the output of the primary side.
 5. Set “Mode” to “CV”. And the target voltage of primary side is set to “400” V.
@@ -69,7 +69,7 @@ Note: It is important to ensure that the appropriate current value is set based 
 <img src="./docs/pics/CCP_1.PNG" alt="img" width="600"><br>
 1. The above diagram shows the connection circuit. Connect J4 of MCU board to PC by micro-USB cable.
 2. Power on by DC 48V on LV connector.
-3. Starting “CN028-2 Digital Power (DAB) Solution (UART) vx.x.exe”, select the COM port number and click the “Connect” button. 
+3. Starting “CN028-2 Digital Power (DAB) Solution (UART) vx.x.exe”, select the COM port number and click the “Connect” button. <br>
 <img src="./docs/pics/CCP_2.PNG" alt="img" width="600"><br>
 4. Set “Application” to “S2P_TargetP”. That means the power is converted from the secondary side to the primary side by controlling the output of the primary side.
 5. Set “Mode” to “CC”. And the target current of primary side is set to “-2” A.
