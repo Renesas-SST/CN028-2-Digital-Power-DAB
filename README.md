@@ -11,10 +11,14 @@
 - Toolchain: GCC 10.3.1.20210824
 - Emulator: J-Link / E2 / E2-Lite
 
-## USB-UART Driver
+## GUI
+- CN028-1 Digital Power (PFC) Solution vx.x (UART).exe
+- CN028-1 Digital Power (PFC) Solution vx.x (CAN).exe
+
+### USB-UART Driver
 https://www.silabs.com/developers/usb-to-uart-bridge-vcp-drivers
 
-## USB-CAN Driver
+### USB-CAN Driver
 http://www.gcan.com.cn/3d05/222b/8f07/8d5f<br>
 This driver is for the CAN-USB box (GCAN USBCAN-I Pro Bus Analyzer).<br>
 <img src="./docs/pics/GCAN%20USBCAN-I%20Pro%20Bus%20Analyzer.jpg" alt="img" width="200">
