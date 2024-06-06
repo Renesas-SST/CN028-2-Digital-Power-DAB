@@ -6,14 +6,17 @@
 # Installation
 ## Operation conditions
 - Microcontroller: RA6T2 (R7FA6T2BD3CFP)
-- IDE: e2-studio v2023-01
-- FSP version: 4.0.0
-- Toolchain: GCC 10.3.1.20210824
+- IDE: e2-studio v2023-01<br>
+https://www.renesas.com/us/en/document/uid/e-studio-2023-01-installer-windows
+- FSP version: 4.0.0<br>
+https://github.com/renesas/fsp/releases/tag/v4.0.0
+- Toolchain: GCC 10.3.1.20210824<br>
+https://developer.arm.com/downloads/-/gnu-rm
 - Emulator: J-Link / E2 / E2-Lite
 
 ## GUI
-- CN028-2 Digital Power (DAB) Solution (UART) vx.x.exe
-- CN028-2 Digital Power (DAB) Solution (CAN) vx.x.exe
+- CN028-2 Digital Power (DAB) Solution (UART) v1.03.exe
+- CN028-2 Digital Power (DAB) Solution (CAN) v1.03.exe
 
 ### USB-UART Driver
 https://www.silabs.com/developers/usb-to-uart-bridge-vcp-drivers
