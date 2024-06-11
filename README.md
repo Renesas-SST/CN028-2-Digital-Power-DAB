@@ -27,11 +27,12 @@ This driver is for the CAN-USB box (GCAN USBCAN-I Pro Bus Analyzer).<br>
 <img src="./docs/pics/GCAN%20USBCAN-I%20Pro%20Bus%20Analyzer.jpg" alt="img" width="200">
 
 # Usage
+## Quick Start Guide
 The following will take the UART version of the GUI as an example for demonstrating.
 
 The solution supports four working modes: CV output of secondary side, CC output of secondary side, CV output of primary side, and CC output of primary side.
 
-## CV Output of Secondary side
+### CV Output of Secondary side
 <img src="./docs/pics/CVS_1.PNG" alt="img" width="600"><br>
 1. The above diagram shows the connection circuit. Connect J4 of MCU board to PC by micro-USB cable.
 2. Power on by DC 400V on HV connector.
@@ -44,7 +45,7 @@ The solution supports four working modes: CV output of secondary side, CC output
 8. Get 48V on “LV Connector”.
 9. Click “STOP” button to stop the output. And then power off.
 
-## CC Output of Secondary side
+### CC Output of Secondary side
 <img src="./docs/pics/CCS_1.PNG" alt="img" width="600"><br>
 1. The above diagram shows the connection circuit. Connect J4 of MCU board to PC by micro-USB cable.
 2. Power on by DC 400V on HV connector.
@@ -59,7 +60,7 @@ The solution supports four working modes: CV output of secondary side, CC output
 
 Note: It is important to ensure that the appropriate current value is set based on the actual load resistance to prevent generating high voltage that can damage the board.
 
-## CV Output of Primary side
+### CV Output of Primary side
 <img src="./docs/pics/CVP_1.PNG" alt="img" width="600"><br>
 1. The above diagram shows the connection circuit. Connect J4 of MCU board to PC by micro-USB cable.
 2. Power on by DC 48V on LV connector.
@@ -72,7 +73,7 @@ Note: It is important to ensure that the appropriate current value is set based 
 8. Get 400V on “HV Connector”.
 9. Click “STOP” button to stop the output. And then power off.
 
-## CC Output of Primary side
+### CC Output of Primary side
 <img src="./docs/pics/CCP_1.PNG" alt="img" width="600"><br>
 1. The above diagram shows the connection circuit. Connect J4 of MCU board to PC by micro-USB cable.
 2. Power on by DC 48V on LV connector.
