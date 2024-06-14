@@ -4,7 +4,7 @@
 3600W bi-directional isolated DC/DC power supply based on digital control, employing a Dual Active Bridge (DAB) topology and advanced Triple Phase Shift (TPS) control algorithm, with soft switching across the entire voltage range and optimized modulation for minimum reverse power flow.
 
 # Installation
-## Operation conditions
+## Operation Conditions
 - Microcontroller: RA6T2 (R7FA6T2BD3CFP)
 - IDE: e2-studio v2023-01<br>
 https://www.renesas.com/us/en/document/uid/e-studio-2023-01-installer-windows
